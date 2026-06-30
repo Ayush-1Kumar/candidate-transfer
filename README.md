@@ -2,6 +2,10 @@
 
 Multi-source candidate data transformer that ingests structured and unstructured sources, merges them into canonical profiles with provenance and confidence, and supports runtime output projection.
 
+## Demo Video
+
+[Watch the demo (~2 min)](https://drive.google.com/file/d/14yBO8KSpWd2jk8Gy2nLZxrDjVJXdAHIL/view?usp=sharing)
+
 ## Sources implemented
 
 | Type | Source | Parser |
