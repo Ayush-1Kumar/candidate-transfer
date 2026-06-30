@@ -1,0 +1,13 @@
+{
+  "candidate_id": "CAND-001",
+  "login": "priyasharma-dev",
+  "name": "Priya Sharma",
+  "bio": "Backend engineer | Python & AWS | Bangalore",
+  "html_url": "https://github.com/priyasharma-dev",
+  "public_repos": 12,
+  "repos": [
+    {"name": "flask-api-starter", "language": "Python"},
+    {"name": "aws-lambda-utils", "language": "Python"},
+    {"name": "ml-side-project", "language": "Jupyter Notebook"}
+  ]
+}

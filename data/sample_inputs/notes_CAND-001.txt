@@ -1,0 +1,11 @@
+Recruiter notes — Priya Sharma (CAND-001)
+Phone screen 2026-06-15
+
+Strong Python backend candidate. Currently at Infosys, ~4 years total experience.
+Previously interned at TCS. Based in Bangalore.
+
+Skills mentioned: Python, Java, AWS, some ML exposure.
+GitHub: https://github.com/octocat (placeholder — use mock in demo)
+LinkedIn: https://www.linkedin.com/in/example
+
+Looking for backend roles. Open to relocation within India.

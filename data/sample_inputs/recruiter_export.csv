@@ -1,0 +1,5 @@
+candidate_id,name,email,phone,current_company,title,location
+CAND-001,"Priya Sharma",priya.sharma@email.com,"+91 98765 43210",Infosys,"Software Engineer","Bangalore, India"
+CAND-002,"John O'Brien",john.obrien@gmail.com,"(415) 555-0198",Stripe,Senior Backend Engineer,"San Francisco, CA"
+CAND-003,"  maria garcia  ",MARIA.GARCIA@WORK.MAIL,"5551234567",,"","Austin TX"
+CAND-004,Bad Record,,not-a-phone,Unknown Corp,,

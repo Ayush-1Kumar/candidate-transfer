@@ -1,0 +1,109 @@
+[
+  {
+    "applicant_ref": "CAND-001",
+    "contact": {
+      "fullName": "Priya S. Sharma",
+      "emailAddress": "priya.sharma@email.com",
+      "mobile": "9876543210"
+    },
+    "currentRole": {
+      "employer": "Infosys Ltd",
+      "positionTitle": "Software Engineer II",
+      "since": "2022-03"
+    },
+    "skills_list": ["Python", "java", "AWS", "machine learning"],
+    "education_history": [
+      {
+        "school": "IIT Delhi",
+        "qualification": "B.Tech",
+        "major": "Computer Science",
+        "graduated": 2020
+      }
+    ],
+    "work_history": [
+      {
+        "org": "Infosys Ltd",
+        "role": "Software Engineer II",
+        "from": "2022-03",
+        "to": null,
+        "description": "Backend services on AWS"
+      },
+      {
+        "org": "TCS",
+        "role": "Intern",
+        "from": "2019-06",
+        "to": "2019-08",
+        "description": "Summer internship"
+      }
+    ]
+  },
+  {
+    "applicant_ref": "CAND-002",
+    "contact": {
+      "fullName": "John O'Brien",
+      "emailAddress": "john.obrien@gmail.com",
+      "mobile": "+14155550198"
+    },
+    "currentRole": {
+      "employer": "Stripe",
+      "positionTitle": "Senior Backend Engineer",
+      "since": "2020-01"
+    },
+    "skills_list": ["Go", "Python", "Distributed Systems", "PostgreSQL"],
+    "education_history": [
+      {
+        "school": "UC Berkeley",
+        "qualification": "BS",
+        "major": "EECS",
+        "graduated": 2018
+      }
+    ],
+    "work_history": [
+      {
+        "org": "Stripe",
+        "role": "Senior Backend Engineer",
+        "from": "2020-01",
+        "to": null,
+        "description": "Payments infrastructure"
+      },
+      {
+        "org": "Dropbox",
+        "role": "Software Engineer",
+        "from": "2018-07",
+        "to": "2019-12",
+        "description": "Storage platform"
+      }
+    ]
+  },
+  {
+    "applicant_ref": "CAND-003",
+    "contact": {
+      "fullName": "Maria Garcia",
+      "emailAddress": "maria.garcia@work.mail",
+      "mobile": ""
+    },
+    "currentRole": {
+      "employer": "Dell Technologies",
+      "positionTitle": "Data Analyst",
+      "since": "2021-05"
+    },
+    "skills_list": ["SQL", "Excel", "Tableau", "python"],
+    "education_history": [
+      {
+        "school": "UT Austin",
+        "qualification": "BSc",
+        "major": "Statistics",
+        "graduated": 2021
+      }
+    ],
+    "work_history": [
+      {
+        "org": "Dell Technologies",
+        "role": "Data Analyst",
+        "from": "2021-05",
+        "to": null,
+        "description": "Business analytics"
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "candidate_id": "CAND-001",
+    "full_name": "Priya S. Sharma",
+    "primary_email": "priya.sharma@email.com",
+    "phone": "+919876543210",
+    "headline": "Software Engineer II at Infosys Ltd",
+    "skill_names": [
+      "AWS",
+      "Java",
+      "Machine Learning",
+      "Python",
+      "Jupyter"
+    ],
+    "years_experience": 7.0,
+    "overall_confidence": 0.871
+  },
+  {
+    "candidate_id": "CAND-002",
+    "full_name": "John O'Brien",
+    "primary_email": "john.obrien@gmail.com",
+    "phone": "+14155550198",
+    "headline": "Senior Backend Engineer at Stripe",
+    "skill_names": [
+      "Distributed Systems",
+      "Go",
+      "PostgreSQL",
+      "Python"
+    ],
+    "years_experience": 7.9,
+    "overall_confidence": 0.882
+  },
+  {
+    "candidate_id": "CAND-003",
+    "full_name": "Maria Garcia",
+    "primary_email": "maria.garcia@work.mail",
+    "phone": null,
+    "headline": "Data Analyst at Dell Technologies",
+    "skill_names": [
+      "Excel",
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "years_experience": 5.1,
+    "overall_confidence": 0.878
+  },
+  {
+    "candidate_id": "CAND-004",
+    "full_name": "Bad Record",
+    "primary_email": null,
+    "phone": null,
+    "headline": null,
+    "skill_names": null,
+    "years_experience": null,
+    "overall_confidence": 0.85
+  }
+]

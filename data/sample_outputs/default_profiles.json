@@ -1,0 +1,536 @@
+[
+  {
+    "candidate_id": "CAND-001",
+    "full_name": "Priya S. Sharma",
+    "emails": [
+      "priya.sharma@email.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": "Bangalore",
+      "region": null,
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/example",
+      "github": "https://github.com/priyasharma-dev",
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Software Engineer II at Infosys Ltd",
+    "years_experience": 7.0,
+    "skills": [
+      {
+        "name": "AWS",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Java",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Machine Learning",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json",
+          "github"
+        ]
+      },
+      {
+        "name": "Jupyter",
+        "confidence": 0.525,
+        "sources": [
+          "github"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Infosys Ltd",
+        "title": "Software Engineer II",
+        "start": "2022-03",
+        "end": null,
+        "summary": "Backend services on AWS"
+      },
+      {
+        "company": "TCS",
+        "title": "Intern",
+        "start": "2019-06",
+        "end": "2019-08",
+        "summary": "Summer internship"
+      },
+      {
+        "company": "Infosys",
+        "title": "Software Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIT Delhi",
+        "degree": "B.Tech",
+        "field": "Computer Science",
+        "end_year": 2020
+      }
+    ],
+    "provenance": [
+      {
+        "field": "experience",
+        "source": "recruiter_csv",
+        "method": "csv_current_role"
+      },
+      {
+        "field": "candidate_id",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "location",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "candidate_id",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "full_name",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "emails",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "phones",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "experience",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "education",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "headline",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "years_experience",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "full_name",
+        "source": "github",
+        "method": "github_api"
+      },
+      {
+        "field": "headline",
+        "source": "github",
+        "method": "github_api"
+      },
+      {
+        "field": "links.github",
+        "source": "github",
+        "method": "github_api"
+      },
+      {
+        "field": "skills",
+        "source": "github",
+        "method": "github_api"
+      },
+      {
+        "field": "candidate_id",
+        "source": "recruiter_notes",
+        "method": "notes_regex"
+      },
+      {
+        "field": "links.linkedin",
+        "source": "recruiter_notes",
+        "method": "notes_regex"
+      }
+    ],
+    "overall_confidence": 0.871
+  },
+  {
+    "candidate_id": "CAND-002",
+    "full_name": "John O'Brien",
+    "emails": [
+      "john.obrien@gmail.com"
+    ],
+    "phones": [
+      "+14155550198"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "region": null,
+      "country": "US"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Senior Backend Engineer at Stripe",
+    "years_experience": 7.9,
+    "skills": [
+      {
+        "name": "Distributed Systems",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Go",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "PostgreSQL",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Senior Backend Engineer",
+        "start": "2020-01",
+        "end": null,
+        "summary": "Payments infrastructure"
+      },
+      {
+        "company": "Dropbox",
+        "title": "Software Engineer",
+        "start": "2018-07",
+        "end": "2019-12",
+        "summary": "Storage platform"
+      },
+      {
+        "company": "Stripe",
+        "title": "Senior Backend Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "UC Berkeley",
+        "degree": "BS",
+        "field": "EECS",
+        "end_year": 2018
+      }
+    ],
+    "provenance": [
+      {
+        "field": "experience",
+        "source": "recruiter_csv",
+        "method": "csv_current_role"
+      },
+      {
+        "field": "candidate_id",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "location",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "candidate_id",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "full_name",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "emails",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "phones",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "experience",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "education",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "headline",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "years_experience",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      }
+    ],
+    "overall_confidence": 0.882
+  },
+  {
+    "candidate_id": "CAND-003",
+    "full_name": "Maria Garcia",
+    "emails": [
+      "maria.garcia@work.mail"
+    ],
+    "phones": [],
+    "location": {
+      "city": "Austin TX",
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Data Analyst at Dell Technologies",
+    "years_experience": 5.1,
+    "skills": [
+      {
+        "name": "Excel",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Tableau",
+        "confidence": 0.81,
+        "sources": [
+          "ats_json"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Dell Technologies",
+        "title": "Data Analyst",
+        "start": "2021-05",
+        "end": null,
+        "summary": "Business analytics"
+      }
+    ],
+    "education": [
+      {
+        "institution": "UT Austin",
+        "degree": "BSc",
+        "field": "Statistics",
+        "end_year": 2021
+      }
+    ],
+    "provenance": [
+      {
+        "field": "candidate_id",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "location",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "candidate_id",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "full_name",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "emails",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "experience",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "education",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "headline",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      },
+      {
+        "field": "years_experience",
+        "source": "ats_json",
+        "method": "ats_json_field"
+      }
+    ],
+    "overall_confidence": 0.878
+  },
+  {
+    "candidate_id": "CAND-004",
+    "full_name": "Bad Record",
+    "emails": [],
+    "phones": [],
+    "location": null,
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "candidate_id",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      }
+    ],
+    "overall_confidence": 0.85
+  }
+]

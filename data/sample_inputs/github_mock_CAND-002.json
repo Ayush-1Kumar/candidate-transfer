@@ -1,0 +1,13 @@
+{
+  "candidate_id": "CAND-002",
+  "login": "jobrien",
+  "name": "John O'Brien",
+  "bio": "Backend @ Stripe. Go, Python, payments.",
+  "html_url": "https://github.com/jobrien",
+  "public_repos": 8,
+  "repos": [
+    {"name": "distributed-cache", "language": "Go"},
+    {"name": "payment-utils", "language": "Go"},
+    {"name": "python-scripts", "language": "Python"}
+  ]
+}
